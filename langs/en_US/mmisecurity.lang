@@ -18,9 +18,9 @@
 #
 
 # Module label 'ModuleMMISecurityName'
-ModuleMMISecurityName = MMISecurity
+ModuleMMISecurityName = Options de sécurité
 # Module description 'ModuleMMISecurityDesc'
-ModuleMMISecurityDesc = MMISecurity description
+ModuleMMISecurityDesc = Contrôle de connexion par IP, etc.
 
 #
 # Admin page
@@ -28,11 +28,8 @@ ModuleMMISecurityDesc = MMISecurity description
 MMISecuritySetup = MMISecurity setup
 Settings = Settings
 MMISecuritySetupPage = MMISecurity setup page
-MMISECURITY_MYPARAM1 = My param 1
-MMISECURITY_MYPARAM1Tooltip = My param 1 tooltip
-MMISECURITY_MYPARAM2=My param 2
-MMISECURITY_MYPARAM2Tooltip=My param 2 tooltip
-
+MMISECURITY_IP_LIMITATION = Adresses IP de connexion
+MMISECURITY_IP_LIMITATIONTooltip = Pour utilisateurs avec accès restreints
 
 #
 # About page
@@ -52,3 +49,8 @@ MyPageName = My page name
 #
 MyWidget = My widget
 MyWidgetDescription = My widget description
+
+#
+# ExtraFields
+#
+Extrafield_ip_connect_limit = Restreindre la connexion à certaines IP

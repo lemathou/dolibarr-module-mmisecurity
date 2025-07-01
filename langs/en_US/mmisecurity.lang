@@ -26,7 +26,6 @@ ModuleMMISecurityDesc = Contrôle de connexion par IP, etc.
 # Admin page
 #
 MMISecuritySetup = MMISecurity setup
-Settings = Settings
 MMISecuritySetupPage = MMISecurity setup page
 MMISECURITY_IP_LIMITATION = Adresses IP de connexion
 MMISECURITY_IP_LIMITATIONTooltip = Pour utilisateurs avec accès restreints
@@ -34,7 +33,6 @@ MMISECURITY_IP_LIMITATIONTooltip = Pour utilisateurs avec accès restreints
 #
 # About page
 #
-About = About
 MMISecurityAbout = About MMISecurity
 MMISecurityAboutPage = MMISecurity about page
 
